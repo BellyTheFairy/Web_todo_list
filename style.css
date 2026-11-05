@@ -1,0 +1,22 @@
+.title{
+
+}
+head-block{
+
+}
+
+.input{
+
+}
+
+.checked{
+    text-decoration: line-through;
+}
+
+#tasks{
+
+}
+
+.counter{
+    display: flex;
+}
