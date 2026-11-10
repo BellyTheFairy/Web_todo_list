@@ -72,7 +72,7 @@ function showText(){
 
     })
 
-    addButton.addEventListener('keydown', funclion(event){   //проверить на ноуте 
+    addButton.addEventListener('keydown', function(event){   //дописать 
         if(event.key === 'Enter'){
 
         }
